@@ -4,8 +4,8 @@
 
 @tailwind utilities;
 
-@layer base {
+/* @layer base {
   html {
     background-color: #0a0a0a;
   }
-}
+} */
